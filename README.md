@@ -2,13 +2,11 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-1E1E1E?style=for-the-badge" />
 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Lab%20Reports-4B5563?style=for-the-badge" />
-
-  <img src="https://img.shields.io/badge/Project%20Based%20Learning-1E40AF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project%20Based%20Learning-C71A36?style=for-the-badge" />
 
 </p>
 
