@@ -6,7 +6,7 @@
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Project%20Based%20Learning-C71A36?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project%20Based%20Learning-1E40AF?style=for-the-badge" />
 
 </p>
 
